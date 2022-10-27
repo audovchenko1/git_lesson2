@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Hello, world
 Hello to gilka2
-=======
 Sobaka 
->>>>>>> gilka
